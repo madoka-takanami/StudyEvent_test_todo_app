@@ -8,14 +8,16 @@
 # 要件
 - フロントはReactで、バックエンド(API)はLaravelで実装してください
 - 下記要件は満たしたものにしてください
-- フロントのデザインや追加機能などは自由です
+- フロントのデザインや追加機能などは自由です!
+
 
 -----------------------
 
 ### 画面
 - Todoリスト画面　（参考↓）
   
-![スクリーンショット 2024-03-05 17 53 24](https://github.com/madoka-takanami/StudyEvent_test_todo_app/assets/100367315/5799c64a-a98f-4612-8ff0-d4769c497cc7)
+![スクリーンショット 2024-03-08 16 58 38](https://github.com/madoka-takanami/StudyEvent_test_todo_app/assets/100367315/414c5509-ad59-4c02-8584-ceeac3d7a6fe)
+
  
 -----------------------
 
